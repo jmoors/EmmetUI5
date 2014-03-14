@@ -1,7 +1,7 @@
 EmmetUI5
 ========
 
-Emmet Snippet for SAPUI5/OpenUI5
+Emmet Snippet for SAPUI5/OpenU
 
 
 Overview
@@ -31,15 +31,15 @@ sap.m
   <tr>
     <td>ActionListItem</td>
     <td>ali</td>
-    <td><pre>
-    </pre></td>
-    <td><pre>
-    </pre></td>
+    <td><pre lang="xml">&lt;ActionListItem text="{${1:titleProperty}}" /&gt;</pre></td>
+    <td><pre lang="javascript">new sap.m.ActionListItem({
+  text: "label"
+})</pre></td>
   </tr>
   <tr>
     <td>ActionSelect</td>
     <td></td>
-    <td><pre>
+    <td><pre lang="xml">
     </pre></td>
     <td><pre>
     </pre></td>
@@ -47,15 +47,20 @@ sap.m
   <tr>
     <td>ActionSheet</td>
     <td></td>
-    <td><pre>
-    </pre></td>
+    <td><pre lang="xml">&lt;ActionSheet
+  title="{${1:titleProperty}}"
+  cancelButtonText="{${2:cancelButtonTextProperty}}"&gt;
+  &lt;buttons&gt;
+
+  &lt;/buttons&gt;
+&lt;/ActionSheet&gt;</pre></td>
     <td><pre>
     </pre></td>
   </tr>
   <tr>
     <td>App</td>
     <td></td>
-    <td><pre>
+    <td><pre lang="xml">
     </pre></td>
     <td><pre>
     </pre></td>
@@ -63,7 +68,7 @@ sap.m
   <tr>
     <td>Bar</td>
     <td></td>
-    <td><pre>
+    <td><pre lang="xml">
     </pre></td>
     <td><pre>
     </pre></td>
@@ -311,11 +316,12 @@ sap.m
   <tr>
     <td>List</td>
     <td></td>
-    <td><pre>&lt;List
+    <td><pre lang="xml">&lt;List
     id="${1:idList}"
     items="${2:itemsAggregation}"
     mode="${3:SingleSelectMaster}"
     select="${4:handleListSelect}"&gt;
+    
 &lt;/List&gt;</pre></td>
     <td><pre>
     </pre></td>
@@ -371,8 +377,13 @@ sap.m
   <tr>
     <td>ObjectListItem</td>
     <td>oli</td>
-    <td><pre>
-    </pre></td>
+    <td><pre lang="xml">&lt;ObjectListItem
+    title="{${1:titleProperty}}"
+    number="{${2:numberProperty}}"
+    numberUnit="{${3:numberUnitProperty}}"
+    press="${4:handleObjectListItemPress}"&gt;
+    
+&lt;/ObjectListItem&gt;</pre></td>
     <td><pre>
     </pre></td>
   </tr>
