@@ -54,13 +54,13 @@ sap.m
   </tr>
   <tr>
     <td>BusyDialog</td>
-    <td></td>
+    <td>bd</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>BusyIndicator</td>
-    <td></td>
+    <td>bi</td>
     <td></td>
     <td></td>
   </tr>
@@ -258,37 +258,37 @@ sap.m
   </tr>
   <tr>
     <td>ObjectAttribute</td>
-    <td></td>
+    <td>oa</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>ObjectHeader</td>
-    <td></td>
+    <td>oh</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>ObjectIdentifier</td>
-    <td></td>
+    <td>oi</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>ObjectListItem</td>
-    <td></td>
+    <td>oli</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>ObjectNumber</td>
-    <td></td>
+    <td>on</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>ObjectStatus</td>
-    <td></td>
+    <td>os</td>
     <td></td>
     <td></td>
   </tr>
@@ -312,49 +312,49 @@ sap.m
   </tr>
   <tr>
     <td>ProgressIndicator</td>
-    <td></td>
+    <td>pi</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>PullToRefresh</td>
-    <td></td>
+    <td>ptr</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>RadioButton</td>
-    <td></td>
+    <td>rb</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>RatingIndicator</td>
-    <td></td>
+    <td>ri</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>ResponsivePopover</td>
-    <td></td>
+    <td>rp</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>ScrollContainer</td>
-    <td></td>
+    <td>sc</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>SearchField</td>
-    <td></td>
+    <td>sf</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>SegmentedButton</td>
-    <td></td>
+    <td>sb</td>
     <td></td>
     <td></td>
   </tr>
@@ -366,7 +366,7 @@ sap.m
   </tr>
   <tr>
     <td>SelectDialog</td>
-    <td></td>
+    <td>sd</td>
     <td></td>
     <td></td>
   </tr>
@@ -384,7 +384,7 @@ sap.m
   </tr>
   <tr>
     <td>SplitApp</td>
-    <td></td>
+    <td>sa</td>
     <td></td>
     <td></td>
   </tr>
@@ -396,13 +396,13 @@ sap.m
   </tr>
   <tr>
     <td>StandardListItem</td>
-    <td></td>
+    <td>sli</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>StandardTile</td>
-    <td></td>
+    <td>st</td>
     <td></td>
     <td></td>
   </tr>
@@ -432,7 +432,7 @@ sap.m
   </tr>
   <tr>
     <td>TextArea</td>
-    <td></td>
+    <td>ta</td>
     <td></td>
     <td></td>
   </tr>
@@ -456,37 +456,37 @@ sap.m
   </tr>
   <tr>
     <td>ToolbarSpacer</td>
-    <td></td>
+    <td>ts</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>VBox</td>
-    <td></td>
+    <td>vb</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>ViewSettingsCustomItem</td>
-    <td></td>
+    <td>vsci</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>ViewSettingsDialog</td>
-    <td></td>
+    <td>vsd</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>ViewSettingsFilterItem</td>
-    <td></td>
+    <td>vsfi</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>ViewSettingsItem</td>
-    <td></td>
+    <td>vsi</td>
     <td></td>
     <td></td>
   </tr>
