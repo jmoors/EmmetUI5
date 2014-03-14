@@ -10,6 +10,12 @@ Overview
 Installation instructions
 -------------------------
 
+Examples
+--------
+
+TODO
+----
+
 Snippets
 --------
 
@@ -305,8 +311,12 @@ sap.m
   <tr>
     <td>List</td>
     <td></td>
-    <td><pre>
-    </pre></td>
+    <td><pre>&lt;List
+    id="${1:idList}"
+    items="${2:itemsAggregation}"
+    mode="${3:SingleSelectMaster}"
+    select="${4:handleListSelect}"&gt;
+&lt;/List&gt;</pre></td>
     <td><pre>
     </pre></td>
   </tr>
